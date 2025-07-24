@@ -18,7 +18,7 @@ from collections import Counter
 
 
 
-# Baixando os recursos necessários do NLTK para inglês (execute apenas na primeira vez)
+# Baixando os recursos necessários do NLTK para inglês
 
 nltk.download('punkt')
 
